@@ -11,8 +11,3 @@ puts "Введіть рядок тексту:"
 text = gets.chomp
 
 word_stats(text)
-
-# Приклад:
-# text = "Ruby is fun and ruby is powerful"
-# word_stats(text)
-# → 7 слів, найдовше: powerful, унікальних: 5
