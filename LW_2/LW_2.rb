@@ -108,7 +108,6 @@ def cut_cake(cake_string)
   CakeCutter.new(cake_string).solve
 end
 
-# Helper method to print results clearly
 def print_solution(cake_name, cake_string)
   puts "--- #{cake_name} ---"
   puts "Original Cake:"
@@ -128,7 +127,6 @@ def print_solution(cake_name, cake_string)
   end
 end
 
-# Example usage:
 cake1 = <<~CAKE
   ........
   ..o.....

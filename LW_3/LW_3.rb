@@ -29,7 +29,6 @@ class DuplicateScanner
       @duplicates[:scanned_files] += 1
       size = File.size(path)
 
-      # Групуємо файли за розміром
       (@files_by_size[size] ||= []) << path
     end
   end
@@ -38,7 +37,6 @@ class DuplicateScanner
     @files_by_size.each do |size, files|
       next if files.length < 2
 
-      # Для файлів однакового розміру, групуємо за хешем
       files_by_hash = {}
       files.each do |file_path|
         hash = calculate_hash(file_path)
@@ -71,7 +69,6 @@ class DuplicateScanner
   end
 end
 
-# --- Main execution ---
 if ARGV.empty?
   puts "Usage: ruby LW_3.rb <directory_to_scan>"
   exit
