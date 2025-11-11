@@ -1,0 +1,649 @@
+{
+  "scanned_files": 667,
+  "groups": [
+    {
+      "size_bytes": 344,
+      "saved_if_dedup_bytes": 13072,
+      "files": [
+        "/Users/annababenko/IdeaProjects/BD_LW8/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_2/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_4/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/.gitignore",
+        "/Users/annababenko/IdeaProjects/Coursework/.gitignore",
+        "/Users/annababenko/IdeaProjects/Exam/.gitignore",
+        "/Users/annababenko/IdeaProjects/Laba3/.gitignore",
+        "/Users/annababenko/IdeaProjects/Laba4/.gitignore",
+        "/Users/annababenko/IdeaProjects/Laba6/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr3/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr5.and.laba2/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr6/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr7/.gitignore",
+        "/Users/annababenko/IdeaProjects/laba5/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr10/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr11/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr12/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr13/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr14/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr15/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr4/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr8/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw2/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw3/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw_1/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw_2/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr11/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr4/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr5/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr6/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr7/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr9/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr_1/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr_2/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr_3/.gitignore",
+        "/Users/annababenko/IdeaProjects/untitled/.gitignore",
+        "/Users/annababenko/IdeaProjects/untitled1/.gitignore",
+        "/Users/annababenko/IdeaProjects/untitled2/.gitignore"
+      ]
+    },
+    {
+      "size_bytes": 176,
+      "saved_if_dedup_bytes": 6864,
+      "files": [
+        "/Users/annababenko/IdeaProjects/BD_LW8/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_2/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_4/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Coursework/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/DB_LW8/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Exam/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Laba3/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Laba4/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Laba6/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr3/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr5.and.laba2/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr6/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/Pr7/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/laba5/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr10/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr11/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr12/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr13/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr14/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr15/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr4/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/pr8/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw2/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw3/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw_1/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_lw_2/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr11/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr4/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr5/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr6/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr7/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr9/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr_1/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr_2/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/s3_pr_3/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/untitled/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/untitled1/.idea/.gitignore",
+        "/Users/annababenko/IdeaProjects/untitled2/.idea/.gitignore"
+      ]
+    },
+    {
+      "size_bytes": 279,
+      "saved_if_dedup_bytes": 10323,
+      "files": [
+        "/Users/annababenko/IdeaProjects/BD_LW8/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_2/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_4/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Coursework/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Exam/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Laba3/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Laba4/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Laba6/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Pr3/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Pr5.and.laba2/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Pr6/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/Pr7/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/laba5/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr10/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr11/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr12/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr13/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr14/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr15/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr4/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/pr8/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_lw2/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_lw3/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_lw_1/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_lw_2/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr11/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr4/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr5/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr6/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr7/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr9/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr_1/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr_2/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr_3/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/untitled1/.idea/misc.xml",
+        "/Users/annababenko/IdeaProjects/untitled2/.idea/misc.xml"
+      ]
+    },
+    {
+      "size_bytes": 423,
+      "saved_if_dedup_bytes": 15651,
+      "files": [
+        "/Users/annababenko/IdeaProjects/BD_LW8/BD_LW8.iml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/Blockchain LW_2.iml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_4/Blockchain LW_4.iml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/Blockchain LW_6.iml",
+        "/Users/annababenko/IdeaProjects/Coursework/Coursework.iml",
+        "/Users/annababenko/IdeaProjects/Exam/Exam.iml",
+        "/Users/annababenko/IdeaProjects/Laba3/Laba3.iml",
+        "/Users/annababenko/IdeaProjects/Laba4/Laba2.iml",
+        "/Users/annababenko/IdeaProjects/Laba6/Laba6.iml",
+        "/Users/annababenko/IdeaProjects/Pr3/Pr3 and laba 1.iml",
+        "/Users/annababenko/IdeaProjects/Pr5.and.laba2/Pr5.and.laba2.iml",
+        "/Users/annababenko/IdeaProjects/Pr6/Pr6.iml",
+        "/Users/annababenko/IdeaProjects/Pr7/Pr7.iml",
+        "/Users/annababenko/IdeaProjects/laba5/laba5.iml",
+        "/Users/annababenko/IdeaProjects/pr10/pr10.iml",
+        "/Users/annababenko/IdeaProjects/pr11/pr11.iml",
+        "/Users/annababenko/IdeaProjects/pr12/pr12.iml",
+        "/Users/annababenko/IdeaProjects/pr13/pr13.iml",
+        "/Users/annababenko/IdeaProjects/pr14/pr14.iml",
+        "/Users/annababenko/IdeaProjects/pr15/pr15.iml",
+        "/Users/annababenko/IdeaProjects/pr4/pr4.iml",
+        "/Users/annababenko/IdeaProjects/pr8/pr8.iml",
+        "/Users/annababenko/IdeaProjects/s3_lw2/s3_lw2.iml",
+        "/Users/annababenko/IdeaProjects/s3_lw3/s3_lw3.iml",
+        "/Users/annababenko/IdeaProjects/s3_lw_1/s3_lw_1.iml",
+        "/Users/annababenko/IdeaProjects/s3_lw_2/s3_lw_2.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr11/s3_pr11.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr4/s3_pr4.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr5/s3_pr5.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr6/s3_pr6.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr7/s3_pr7.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr9/s3_pr9.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr_1/s3_pr_1.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr_2/s3_pr_2.iml",
+        "/Users/annababenko/IdeaProjects/s3_pr_3/s3_pr_3.iml",
+        "/Users/annababenko/IdeaProjects/untitled/pr.1.iml",
+        "/Users/annababenko/IdeaProjects/untitled1/untitled1.iml",
+        "/Users/annababenko/IdeaProjects/untitled2/untitled2.iml"
+      ]
+    },
+    {
+      "size_bytes": 6148,
+      "saved_if_dedup_bytes": 6148,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/.DS_Store",
+        "/Users/annababenko/IdeaProjects/DB_LW8/.DS_Store"
+      ]
+    },
+    {
+      "size_bytes": 6148,
+      "saved_if_dedup_bytes": 6148,
+      "files": [
+        "/Users/annababenko/IdeaProjects/s3_lw_1/.DS_Store",
+        "/Users/annababenko/IdeaProjects/s3_pr_3/.DS_Store"
+      ]
+    },
+    {
+      "size_bytes": 270,
+      "saved_if_dedup_bytes": 270,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_2/.idea/modules.xml",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/.idea/modules.xml"
+      ]
+    },
+    {
+      "size_bytes": 2477,
+      "saved_if_dedup_bytes": 2477,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/out/production/Blockchain LW_2/Block.class",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/out/production/Blockchain LW_6/Block.class"
+      ]
+    },
+    {
+      "size_bytes": 2330,
+      "saved_if_dedup_bytes": 2330,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/out/production/Blockchain LW_2/Blockchain.class",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/out/production/Blockchain LW_6/Blockchain.class"
+      ]
+    },
+    {
+      "size_bytes": 3058,
+      "saved_if_dedup_bytes": 3058,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/out/production/Blockchain LW_2/StringUtils.class",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/out/production/Blockchain LW_6/StringUtils.class"
+      ]
+    },
+    {
+      "size_bytes": 1257,
+      "saved_if_dedup_bytes": 1257,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/out/production/Blockchain LW_2/Transaction.class",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/out/production/Blockchain LW_6/Transaction.class"
+      ]
+    },
+    {
+      "size_bytes": 1659,
+      "saved_if_dedup_bytes": 1659,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/src/StringUtils.java",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/src/StringUtils.java"
+      ]
+    },
+    {
+      "size_bytes": 532,
+      "saved_if_dedup_bytes": 532,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_3/src/Transaction.java",
+        "/Users/annababenko/IdeaProjects/Blockchain LW_6/src/Transaction.java"
+      ]
+    },
+    {
+      "size_bytes": 8792,
+      "saved_if_dedup_bytes": 87920,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Blockchain LW_4/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/Laba3/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/Laba4/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/Pr3/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/Pr6/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/Pr7/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/pr4/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr4/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr_1/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/s3_pr_3/.idea/uiDesigner.xml",
+        "/Users/annababenko/IdeaProjects/untitled/.idea/uiDesigner.xml"
+      ]
+    },
+    {
+      "size_bytes": 824,
+      "saved_if_dedup_bytes": 824,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/0.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/0.gif"
+      ]
+    },
+    {
+      "size_bytes": 868,
+      "saved_if_dedup_bytes": 868,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/1.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/1.gif"
+      ]
+    },
+    {
+      "size_bytes": 1184,
+      "saved_if_dedup_bytes": 1184,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/10.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/10.gif"
+      ]
+    },
+    {
+      "size_bytes": 936,
+      "saved_if_dedup_bytes": 936,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/2.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/2.gif"
+      ]
+    },
+    {
+      "size_bytes": 1026,
+      "saved_if_dedup_bytes": 1026,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/3.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/3.gif"
+      ]
+    },
+    {
+      "size_bytes": 1086,
+      "saved_if_dedup_bytes": 1086,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/4.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/4.gif"
+      ]
+    },
+    {
+      "size_bytes": 1151,
+      "saved_if_dedup_bytes": 1151,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/5.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/5.gif"
+      ]
+    },
+    {
+      "size_bytes": 1212,
+      "saved_if_dedup_bytes": 1212,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/6.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/6.gif"
+      ]
+    },
+    {
+      "size_bytes": 1261,
+      "saved_if_dedup_bytes": 1261,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/7.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/7.gif"
+      ]
+    },
+    {
+      "size_bytes": 1309,
+      "saved_if_dedup_bytes": 1309,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/8.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/8.gif"
+      ]
+    },
+    {
+      "size_bytes": 1342,
+      "saved_if_dedup_bytes": 1342,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/9.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/9.gif"
+      ]
+    },
+    {
+      "size_bytes": 8026,
+      "saved_if_dedup_bytes": 8026,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_enemy_down_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_enemy_down_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8069,
+      "saved_if_dedup_bytes": 8069,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_enemy_left_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_enemy_left_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8097,
+      "saved_if_dedup_bytes": 8097,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_enemy_right_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_enemy_right_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8004,
+      "saved_if_dedup_bytes": 8004,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_enemy_up_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_enemy_up_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8208,
+      "saved_if_dedup_bytes": 8208,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_self_down_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_self_down_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8214,
+      "saved_if_dedup_bytes": 8214,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_self_left_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_self_left_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8235,
+      "saved_if_dedup_bytes": 8235,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_self_right_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_self_right_3.png"
+      ]
+    },
+    {
+      "size_bytes": 8178,
+      "saved_if_dedup_bytes": 8178,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/TANK1_self_up_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/TANK1_self_up_3.png"
+      ]
+    },
+    {
+      "size_bytes": 430,
+      "saved_if_dedup_bytes": 430,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/boom_1.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/boom_1.png"
+      ]
+    },
+    {
+      "size_bytes": 1559,
+      "saved_if_dedup_bytes": 1559,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/boom_2.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/boom_2.png"
+      ]
+    },
+    {
+      "size_bytes": 3733,
+      "saved_if_dedup_bytes": 3733,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/boom_3.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/boom_3.png"
+      ]
+    },
+    {
+      "size_bytes": 2673,
+      "saved_if_dedup_bytes": 2673,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/boom_4.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/boom_4.png"
+      ]
+    },
+    {
+      "size_bytes": 1418,
+      "saved_if_dedup_bytes": 1418,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/boom_5.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/boom_5.png"
+      ]
+    },
+    {
+      "size_bytes": 855,
+      "saved_if_dedup_bytes": 855,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletD.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletD.gif"
+      ]
+    },
+    {
+      "size_bytes": 839,
+      "saved_if_dedup_bytes": 839,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletL.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletL.gif"
+      ]
+    },
+    {
+      "size_bytes": 839,
+      "saved_if_dedup_bytes": 839,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletR.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletR.gif"
+      ]
+    },
+    {
+      "size_bytes": 864,
+      "saved_if_dedup_bytes": 864,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletLD.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletLD.gif"
+      ]
+    },
+    {
+      "size_bytes": 863,
+      "saved_if_dedup_bytes": 863,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletLU.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletLU.gif"
+      ]
+    },
+    {
+      "size_bytes": 863,
+      "saved_if_dedup_bytes": 863,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletRU.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletRU.gif"
+      ]
+    },
+    {
+      "size_bytes": 861,
+      "saved_if_dedup_bytes": 861,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletRD.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletRD.gif"
+      ]
+    },
+    {
+      "size_bytes": 852,
+      "saved_if_dedup_bytes": 852,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/bulletU.gif",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/bulletU.gif"
+      ]
+    },
+    {
+      "size_bytes": 23136,
+      "saved_if_dedup_bytes": 23136,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/hit.wav",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/hit.wav"
+      ]
+    },
+    {
+      "size_bytes": 3864,
+      "saved_if_dedup_bytes": 3864,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/home_1.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/home_1.png"
+      ]
+    },
+    {
+      "size_bytes": 3797,
+      "saved_if_dedup_bytes": 3797,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/home_2.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/home_2.png"
+      ]
+    },
+    {
+      "size_bytes": 727,
+      "saved_if_dedup_bytes": 727,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/hp.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/hp.png"
+      ]
+    },
+    {
+      "size_bytes": 4327,
+      "saved_if_dedup_bytes": 4327,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/iron_1.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/iron_1.png"
+      ]
+    },
+    {
+      "size_bytes": 19089,
+      "saved_if_dedup_bytes": 19089,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/river.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/river.png"
+      ]
+    },
+    {
+      "size_bytes": 322,
+      "saved_if_dedup_bytes": 322,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/tree.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/tree.png"
+      ]
+    },
+    {
+      "size_bytes": 3879,
+      "saved_if_dedup_bytes": 3879,
+      "files": [
+        "/Users/annababenko/IdeaProjects/Coursework/out/production/Coursework/Images/wall_1.png",
+        "/Users/annababenko/IdeaProjects/Coursework/src/Images/wall_1.png"
+      ]
+    },
+    {
+      "size_bytes": 367,
+      "saved_if_dedup_bytes": 367,
+      "files": [
+        "/Users/annababenko/IdeaProjects/pr12/out/production/pr12/MyEmptyContainerException.class",
+        "/Users/annababenko/IdeaProjects/pr13/out/production/pr13/MyEmptyContainerException.class"
+      ]
+    },
+    {
+      "size_bytes": 364,
+      "saved_if_dedup_bytes": 364,
+      "files": [
+        "/Users/annababenko/IdeaProjects/pr12/out/production/pr12/MyFullContainerException.class",
+        "/Users/annababenko/IdeaProjects/pr13/out/production/pr13/MyFullContainerException.class"
+      ]
+    },
+    {
+      "size_bytes": 351,
+      "saved_if_dedup_bytes": 351,
+      "files": [
+        "/Users/annababenko/IdeaProjects/pr12/out/production/pr12/MyWrongParamException.class",
+        "/Users/annababenko/IdeaProjects/pr13/out/production/pr13/MyWrongParamException.class"
+      ]
+    },
+    {
+      "size_bytes": 146,
+      "saved_if_dedup_bytes": 146,
+      "files": [
+        "/Users/annababenko/IdeaProjects/pr12/src/MyEmptyContainerException.java",
+        "/Users/annababenko/IdeaProjects/pr13/src/MyEmptyContainerException.java"
+      ]
+    },
+    {
+      "size_bytes": 127,
+      "saved_if_dedup_bytes": 127,
+      "files": [
+        "/Users/annababenko/IdeaProjects/pr12/src/MyWrongParamException.java",
+        "/Users/annababenko/IdeaProjects/pr13/src/MyWrongParamException.java"
+      ]
+    },
+    {
+      "size_bytes": 1397542,
+      "saved_if_dedup_bytes": 1397542,
+      "files": [
+        "/Users/annababenko/IdeaProjects/s3_lw_2/movies.csv",
+        "/Users/annababenko/IdeaProjects/s3_pr6/movies.csv"
+      ]
+    },
+    {
+      "size_bytes": 141694,
+      "saved_if_dedup_bytes": 141694,
+      "files": [
+        "/Users/annababenko/IdeaProjects/s3_pr4/input.txt",
+        "/Users/annababenko/IdeaProjects/s3_pr4/output.txt"
+      ]
+    }
+  ]
+}
