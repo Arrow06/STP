@@ -1,0 +1,37 @@
+#!/usr/bin/env ruby
+require "json"
+require_relative "../lib/json_validator_cli"
+
+if ARGV.length != 2
+  puts "Usage: jvc <schema_file.json> <data_file.json>"
+  exit 1
+end
+
+schema_file, data_file = ARGV
+
+begin
+  schema = JSON.parse(File.read(schema_file))
+  data   = JSON.parse(File.read(data_file))
+
+  validator = JsonValidatorCli::Validator.new(schema)
+  errors = validator.validate(data)
+
+  puts "--- Validation Report ---"
+  puts "Schema: #{schema_file}"
+  puts "Data:   #{data_file}"
+  puts "-------------------------"
+
+  if errors.empty?
+    puts "SUCCESS: JSON is valid against the schema."
+    exit 0
+  else
+    puts " FAILURE: Found #{errors.size} error(s):"
+    errors.each { |e| puts " - #{e}" }
+    exit 1
+  end
+
+rescue Errno::ENOENT => e
+  puts "File error: #{e.message}"
+rescue JSON::ParserError
+  puts "JSON Error: One of the files contains invalid JSON."
+end
